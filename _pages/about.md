@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Hi there, I am Aarya!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-![Galaxy known as NGC 5907 as imaged by the NASA/ESA Hubble Space Telescope. Credit: ESA/Hubble & NASA, R. de Jong Acknowledgement: Judy Schmidt (Geckzilla)](/images/galaxy.jpg)
 
 I am a PhD student at the David A. Dunlap Department of Astronomy & Astrophysics at the University of Toronto. Prior to this, I earned a Bachelor's degree in Computer Engineering at the Pune Institute of Computer Technology, Savitribai Phule Pune University in India. My research lies at the intersection of astrophysics, computer science and statistics. I perform large-scale data driven studies to understand how disk galaxies like the Milky Way form and evolve.
 
