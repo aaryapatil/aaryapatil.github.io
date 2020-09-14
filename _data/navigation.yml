@@ -1,6 +1,6 @@
 # main links links
 main:
-   - title: "CV"
+  - title: "CV"
     url: /cv/
 
   - title: "Research"
@@ -8,13 +8,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
   - title: "Outreach"
     url: /outreach/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
 
- - title: "Personal"
+  - title: "Personal"
     url: /about-me/
-
