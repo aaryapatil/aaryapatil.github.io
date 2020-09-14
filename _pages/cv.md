@@ -9,51 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+I hail from Pune, a city in Maharashtra, India, and obtained my B.E. in Computer Engineering at the Savitribai Phule Pune University in 2018. I then became a part of the Astronomy & Astrophysics Department at the University of Toronto as a PhD student.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+My Professional Interests are:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Astrostatistics and Astroinformatics
+* Milky Way formation & evolution
+* Open-source software development - contributing member of the AstroPy project
+* Teaching software development and statistical analysis skills to scientists
+* Educational equity and inclusivity
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+My full CV is attached here: ![CV](/files/Aarya_Patil_CV.pdf)
