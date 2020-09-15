@@ -11,8 +11,10 @@ My Sketches
 -----------
 
 <p float="left">
-  <img width="50" src="https://aaryapatil.github.io/images/sketch_1.jpg" />
-  <img width="50" src="https://aaryapatil.github.io/images/sketch_2.jpg" />
-  <img width="50" src="https://aaryapatil.github.io/images/sketch_2.jpg" />
+  <img width="150" src="https://aaryapatil.github.io/images/sketch_1.jpg" />
+  <img width="150" src="https://aaryapatil.github.io/images/sketch_2.jpg" />
 </p>
 
+<p align="center">
+	<img width="150" src="https://aaryapatil.github.io/images/sketch_3.jpg">
+</p>
