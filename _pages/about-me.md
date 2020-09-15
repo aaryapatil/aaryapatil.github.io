@@ -10,17 +10,9 @@ When I am not working on *universal* problems, I dance, sing, sketch and most im
 My Sketches
 -----------
 
-<p align="center">
-  <img src="https://aaryapatil.github.io/images/sketch_1.jpg">
-</p>
-
-
-<p align="center">
-  <img src="https://aaryapatil.github.io/images/sketch_2.jpg">
-</p>
-
-
-<p align="center">
-  <img src="https://aaryapatil.github.io/images/sketch_3.jpg">
+<p float="left">
+  <img width="50" src="https://aaryapatil.github.io/images/sketch_1.jpg" />
+  <img width="50" src="https://aaryapatil.github.io/images/sketch_2.jpg" />
+  <img width="50" src="https://aaryapatil.github.io/images/sketch_2.jpg" />
 </p>
 
