@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I am Aarya!"
+title: "Hi there, I am Aarya आर्या!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
