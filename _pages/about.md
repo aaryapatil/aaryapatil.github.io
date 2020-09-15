@@ -1,12 +1,39 @@
 ---
 permalink: /
-title: "Hi there, I am Aarya / आर्या !"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<style>
+div.background {
+  background: url(https://aaryapatil.github.io/images/nasa_galaxy_cover.jpg) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+</style>
+
+<div class="background">
+  <div class="transbox">
+    <p> I am Aarya / आर्या 
+    </p>
+  </div>
+</div>
 
 I am a PhD student at the [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/) and the [Dunlap Institute for Astronomy & Astrophysics](https://www.dunlap.utoronto.ca/) at the University of Toronto. Prior to this, I earned a Bachelor's degree in Computer Engineering at the Savitribai Phule Pune University in India. My research lies at the intersection of astrophysics, computer science and statistics. I perform large-scale data driven studies to understand how disk galaxies like the Milky Way form and evolve. Such a galaxy is shown in the following Hubble Space Telescope photograph - galaxy UGC 2885:
 
