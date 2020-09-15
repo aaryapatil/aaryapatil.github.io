@@ -15,7 +15,7 @@ I am a PhD student at the [David A. Dunlap Department of Astronomy & Astrophysic
 </p>
 
 
-*Fun fact: I wrote the first open-source implementation that allows the storage/retrieval of time coordinates in the Hubble Space Telescope and other telescope data!* 
+*Fun fact: I wrote the first open-source implementation that allows the storage/retrieval of time coordinates in the Hubble Space Telescope and several other telescope data following a generic and instrument independent way!* 
 
-This was done when I worked as a student developer under the [Google Summer of Code](https://summerofcode.withgoogle.com/) 2017 program. I am now a long term AstroPy contributor and an avid open source developer. I believe in the power of open science and strive to develop well-documented, well-maintained code with proper comments(!). 
+This was done when I worked as a student developer for [AstroPy](https://www.astropy.org/) under the [Google Summer of Code](https://summerofcode.withgoogle.com/) 2017 program. I am now a long term AstroPy contributor and an avid open source developer. I believe in the power of open science and strive to develop well-documented, well-maintained code with proper comments(!). 
 
