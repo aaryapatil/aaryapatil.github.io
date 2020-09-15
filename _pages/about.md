@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/) and the [Dunlap Institute for Astronomy & Astrophysics](https://www.dunlap.utoronto.ca/) at the University of Toronto. Prior to this, I earned a Bachelor's degree in Computer Engineering at the Savitribai Phule Pune University in India. My research lies at the intersection of astrophysics, computer science and statistics. I perform large-scale data driven studies to understand how disk galaxies like the Milky Way form and evolve.
+I am a PhD student at the [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/) and the [Dunlap Institute for Astronomy & Astrophysics](https://www.dunlap.utoronto.ca/) at the University of Toronto. Prior to this, I earned a Bachelor's degree in Computer Engineering at the Savitribai Phule Pune University in India. My research lies at the intersection of astrophysics, computer science and statistics. I perform large-scale data driven studies to understand how disk galaxies like the Milky Way form and evolve. Such a galaxy is shown in the following Hubble Space Telescope photograph.
 
 <p align="center">
-  <img width="600" height="50" src="https://aaryapatil.github.io/images/galaxy.jpg">
+  <img width="80" height="50" src="https://aaryapatil.github.io/images/galaxy_small.png">
 </p>
 
 
