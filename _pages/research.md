@@ -12,7 +12,7 @@ Galaxies are the fundamental building blocks in the structure of the Universe. N
 Also, galaxies are beautiful!
 
 <p align="center">
-  <img width="250" height="50" src="https://aaryapatil.github.io/images/galaxy.jpg">
+  <img width="500" height="50" src="https://aaryapatil.github.io/images/galaxy.jpg">
 </p>
 
 In addition, I also work on star formation and stellar evolution by investigating *Star Clusters*. A star cluster consists of stars that were born out of the same giant molecular cloud at the same time. These remain gravitationally bound for a limited period of time and investigating them during this time provides several opportunities to model star formation and stellar evolution theories in detail. I investigate the age and chemistry of individual stars in open clusters, star clusters found in the disk, to decode properties of the star-forming gas.
@@ -22,11 +22,11 @@ Currently, I am working on the development of a new *Likelihood-free Inference t
 Publications
 ------------
 
-#### Peer-Reviewed Journal Articles
+### Peer-Reviewed Journal Articles
 
 Astropy Collaboration et al. (incl. A. A. Patil), *The Astropy Project: Building an Openscience Project and Status of the v2.0 Core Package*, The Astronomical Journal, Volume 156, Issue 3, article id. 123, 19 pp., 2018 [1380 citations]
 
-#### Conference Proceedings
+### Conference Proceedings
 
 Patil, A.; Bovy, J.; Eadie, G, *Likelihood-free Inference of Chemical Homogeneity in Open Clusters*, 2020 Joint Statistical Meetings (JSM) Proceedings, American Statistical Association (ASA), 2020 *in prep*
 
