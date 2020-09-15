@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Hi there, I am Aarya | [आर्या]{lang=hi}!"
+title: "Hi there, I am Aarya | आर्या!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
- header-includes:
-  - \newfontfamily\devanagarifont{Shobhika}
 ---
 
 I am a PhD student at the [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/) and the [Dunlap Institute for Astronomy & Astrophysics](https://www.dunlap.utoronto.ca/) at the University of Toronto. Prior to this, I earned a Bachelor's degree in Computer Engineering at the Savitribai Phule Pune University in India. My research lies at the intersection of astrophysics, computer science and statistics. I perform large-scale data driven studies to understand how disk galaxies like the Milky Way form and evolve.
