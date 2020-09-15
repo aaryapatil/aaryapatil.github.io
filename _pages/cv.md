@@ -19,4 +19,4 @@ My Professional Interests are:
 * Teaching software development and statistical analysis skills to scientists
 * Educational equity and inclusivity
 
-My full CV is attached here: ![CV](./files/Aarya_Patil_CV.pdf)
+My full CV is attached here: ![Download CV](https://aaryapatil.github.io/files/Aarya_Patil_CV.pdf)
