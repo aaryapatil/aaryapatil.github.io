@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 div.background {
-  background: url(https://aaryapatil.github.io/images/nasa_galaxy_cover.jpg) repeat;
+  background: url(https://aaryapatil.github.io/images/stars.jpg) repeat;
   border: 2px solid black;
 }
 
@@ -30,7 +30,7 @@ div.transbox p {
 
 <div class="background">
   <div class="transbox">
-    <p> I am Aarya / आर्या 
+    <p> Hi there, I am Aarya / आर्या !
     </p>
   </div>
 </div>
