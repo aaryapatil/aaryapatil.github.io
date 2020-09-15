@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aarya Patil"
 title_separator          : "-"
 name                     : &name "Aarya Patil"
-description              : &description "PhD student in Astrophysics at University of Toronto"
+description              : &description "Astrophysics PhD student at University of Toronto"
 url                      : https://aaryapatil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aaryapatil.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aarya Patil"
   avatar           : "profile.jpeg"
-  bio              : "Astrophysics PhD student at University of Toronto"
+  bio              : "Astrophysics PhD student at University of Toronto (she/her)"
   location         : "Toronto"
   employer         :
   pubmed           :
