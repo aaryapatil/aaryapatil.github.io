@@ -11,12 +11,26 @@ redirect_from:
 <style>
 div.background {
   background: url(https://aaryapatil.github.io/images/stars.jpg) repeat;
-  border: 3px solid black;
+  border: 1px solid black;
+}
+
+div.transbox {
+  margin: 40px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
 }
 </style>
 
 <div class="background">
-    <p style="color:white;font-size:24px;"> Hi there, I am Aarya / आर्या !
+  <div class="transbox">
+    <p style="color:black;font-size:24px;"> Hi there, I am Aarya / आर्या !
     </p>
   </div>
 </div>
