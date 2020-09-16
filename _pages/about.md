@@ -30,14 +30,14 @@ div.transbox p {
 
 <div class="background">
   <div class="transbox">
-    <p style="color:black;font-size:24px;"> Hi there, I am Aarya / आर्या !
+    <p style="color:black;font-size:28px;text-align:center;"> Welcome!
     </p>
   </div>
 </div>
   
 
 <br/>
-I am a PhD student at the [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/) and the [Dunlap Institute for Astronomy & Astrophysics](https://www.dunlap.utoronto.ca/) at the University of Toronto. Prior to this, I earned a Bachelor's degree in Computer Engineering at the Savitribai Phule Pune University in India. My research lies at the intersection of astrophysics, computer science and statistics. I perform large-scale data driven studies to understand how disk galaxies like the Milky Way form and evolve.
+I am Aarya / आर्या. I am a PhD student at the [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/) and the [Dunlap Institute for Astronomy & Astrophysics](https://www.dunlap.utoronto.ca/) at the University of Toronto. Prior to this, I earned a Bachelor's degree in Computer Engineering at the Savitribai Phule Pune University in India. My research lies at the intersection of astrophysics, computer science and statistics. I perform large-scale data driven studies to understand how disk galaxies like the Milky Way form and evolve.
 
 
 *Fun fact: I wrote the first open-source implementation that allows the storage/retrieval of time coordinates in several astronomical datasets like the Hubble Space Telescope data in a generic and instrument independent way!* 
