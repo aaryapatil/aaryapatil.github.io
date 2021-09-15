@@ -24,11 +24,17 @@ Publications
 
 ### Peer-Reviewed Journal Articles
 
-Astropy Collaboration et al. (incl. A. A. Patil), *The Astropy Project: Building an Openscience Project and Status of the v2.0 Core Package*, The Astronomical Journal, Volume 156, Issue 3, article id. 123, 19 pp., 2018 [1380 citations]
+**Functional data analysis for extracting the intrinsic dimensionality of spectra
+Application: chemical homogeneity in open cluster M67**
+Aarya A. Patil, Jo Bovy, Gwendolyn Eadie, & Sebastian Jaimungal, The Astrophysical Journal (ApJ)., submitted (2021)
+
+**The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package**
+Astropy Collaboration et al. including A. A. Patil, The Astronomical Journal (AJ), Volume 156, Issue 3, article id. 123, 19 pp. (2018) [2840 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18004325045591676525)
 
 ### Conference Proceedings
 
-Patil, A.; Bovy, J.; Eadie, G, *Likelihood-free Inference of Chemical Homogeneity in Open Clusters*, 2020 Joint Statistical Meetings (JSM) Proceedings, American Statistical Association (ASA), 2020 *in prep*
+**Likelihood-free Inference of Chemical Homogeneity in Open Clusters**
+Aarya A. Patil, Jo Bovy, & Gwendolyn Eadie, Joint Statistical Meetings (JSM) Proceedings, American Statistical Association (ASA), pp 1838-1844 (2020)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

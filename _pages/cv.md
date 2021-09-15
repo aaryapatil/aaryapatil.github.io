@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I hail from sunny Pune, a city in Maharashtra, India, where I obtained my B.E. in Computer Engineering at the Savitribai Phule Pune University in June 2018. I then became a part of the Astronomy & Astrophysics Department at the University of Toronto as a PhD (Direct-Entry) student in September 2018. I am currently starting my 3rd year in the program and have passed my General Qualifying Exams. I plan to defend my thesis proposal and achieve PhD candidacy by the end of Fall 2020.
+I hail from sunny Pune, a city in Maharashtra, India, where I obtained my B.E. in Computer Engineering at the Savitribai Phule Pune University in June 2018. I then became a part of the Astronomy & Astrophysics Department at the University of Toronto as a PhD (Direct-Entry) student in September 2018. I achieved candidacy in Fall 2020, and am currently starting my 4th year in the program.
 
 My Professional Interests are:
 -----------------------------
@@ -20,4 +20,4 @@ My Professional Interests are:
 * Teaching software development and statistical analysis skills to scientists
 * Educational equity and inclusivity
 
-My full CV is attached here: [Download CV](https://aaryapatil.github.io/files/Aarya_Patil_CV.pdf)
+My full CV will be attached here soon.
