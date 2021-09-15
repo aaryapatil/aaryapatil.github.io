@@ -16,7 +16,7 @@ My Professional Interests are:
 
 * Astrostatistics and Astroinformatics
 * Milky Way formation & evolution
-* Open-source software development - contributing member of the AstroPy project
+* Open-source software development - voting member of the Astropy project
 * Teaching software development and statistical analysis skills to scientists
 * Educational equity and inclusivity
 
