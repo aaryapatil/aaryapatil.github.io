@@ -32,10 +32,10 @@ Publications
 
 **Functional data analysis for extracting the intrinsic dimensionality of spectra
 Application: chemical homogeneity in open cluster M67**\
-Aarya A. Patil, Jo Bovy, Gwendolyn Eadie, & Sebastian Jaimungal, The Astrophysical Journal (ApJ)., submitted (2021)
+Aarya A. Patil, Jo Bovy, Gwendolyn Eadie, & Sebastian Jaimungal, The Astrophysical Journal (ApJ)., submitted (2021) [arXiv/2109.10891](https://arxiv.org/abs/2109.10891)
 
 **The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package**\
-Astropy Collaboration et al. including A. A. Patil, The Astronomical Journal (AJ), Volume 156, Issue 3, article id. 123, 19 pp. (2018) [2840 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18004325045591676525)
+Astropy Collaboration et al. including A. A. Patil, The Astronomical Journal (AJ), Volume 156, Issue 3, article id. 123, 19 pp. (2018) [arXiv/1801.02634](https://arxiv.org/abs/1801.02634)
 
 ### Conference Proceedings
 
