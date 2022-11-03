@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+You can find my refereed (incl. submitted) publications on [ADS](https://ui.adsabs.harvard.edu/public-libraries/7Ek22n9ERuaEYfrwLQfFCA).
+
 *My research lies at the intersection of astrophysics and statistics by developing novel data-driven tools that guide mathematical models of the Milky Way (MW) Galaxy.*
 
 The Basics
@@ -24,36 +26,6 @@ The mechanisms that govern galaxy formation and evolution are encoded in the his
 I follow a bottom-up approach to estimate the age-metallicity distribution of the MW disk. I first develop methods to measure the ages and chemistry of simple populations of stars in the disk, i.e., open clusters. Stars in an open cluster are assumed to have formed simultaneously from the same homogeneous gas cloud, and are expected to have similar ages and chemistry [8, 9, 10]. These assumptions make open clusters ideal for testing age and chemical estimation methods. They are also important for understanding the theory of star formation and evolution, and their role in MW evolution.
 
 Patil et al. (2022 a) performs accurate and precise estimation of stellar chemical abundances using *Functional Data Analysis* [11] and *Likelihood-free Inference* [12], and constrains the chemical homogeneity in open cluster M67. Patil el al. (2022 b) estimates precise asteroseismic stellar ages using *Multitaper Spectral Analysis* [13] [14].
-
-Publications
-------------
-
-### Peer-Reviewed Journal Articles
-
-
-**In preparation:** <br \>
-<br \>
-Patil, A. A.; Bovy, J.; & Jaimungal, S. "Decoding the Age-Metallicity Structure of the Milky Way disk: An application of Copulas and Elicitable Maps". To be submitted to the Monthly Notices of the Royal Astronomical Society.<br \>
-
-Sun, J.; Patil, A. A.; Guo, J.; & Zhou, S. "A Case Study of an Open-Source Scientific Software". To be submitted to the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ESEC/FSE 2023. https://2023.esec-fse.org/<br \>
-
-**Submitted:**<br \>
-<br \>
-Patil, A. A.; Eadie, G.; Speagle, J.; & Thomson, D. "Multitaper Spectral Estimation in Asteroseismology". Submitted to The Astronomical Journal.<br \>
-
-**Published:**<br \>
-<br \>
-The Astropy Collaboration, Price-Whelan, A. M.; Lim, P. L.; Earl, N.; Starkman, N.; Bradley, L.; Shupe, D. L.; Patil, A. A. et al. (2022). "The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5. 0) of the Core Package". The Astrophysical Journal, Volume 935, Issue 2, article id 167, 20pp. https://arxiv.org/abs/2206.14220 [12 citations]<br \>
-
-Patil, A. A.; Bovy, J.; Eadie, G.; & Jaimungal, S. (2022). "Functional Data Analysis for Extracting the Intrinsic Dimensionality of Spectra: Application to Chemical Homogeneity in the Open Cluster M67". The Astrophysical Journal, Volume 926, Issue 1, article id. 51, 24pp. https://arxiv.org/abs/2109.10891 [1 citation]<br \>
-
-Astropy Collaboration et al. including Patil, A. A. (2018). "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package". The Astronomical Journal, Volume 156, Issue 3, article id. 123, 19 pp. https://arxiv.org/abs/1801.02634 [3985 citations]<br \>
-
-### Non-Peer-Reviewed Articles
-
-Cruz, K.;  Günther, H. M.;  Patil, A.;  Swinbank, J.; &  Tollerud, E. (2022). "Astropy Proposal for Enhancement 19: Distributing Astropy Project Funding (APE19)". Technical Report, Zenodo. https://doi.org/10.5281/zenodo.6312048<br \>
-
-Patil, A.; Bovy, J.; & Eadie G. (2020). "Likelihood-free Inference of Chemical Homogeneity in Open Clusters". 2020 Joint Statistical Meetings (JSM) Proceedings, American Statistical Association (ASA), pp 1838-1844. ![link to pdf](./files/JSM_Proceedings_2020.pdf)<br \>
 
 
 {% if author.googlescholar %}
