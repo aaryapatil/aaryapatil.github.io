@@ -6,5 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-My full CV is available [here](https://aaryapatil.github.io/files/Patil_Aarya_CV.pdf).
+<meta http-equiv="Refresh" content="0; url='https://aaryapatil.github.io/files/Patil_Aarya_CV.pdf'" />
