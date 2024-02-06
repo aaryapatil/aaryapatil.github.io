@@ -8,39 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/) and the [Dunlap Institute for Astronomy & Astrophysics](https://www.dunlap.utoronto.ca/) at the University of Toronto. I am also a
-[Data Sciences Institute Doctoral Student Fellow](https://datasciences.utoronto.ca/doctoral-student-fellowships/) at the University of Toronto. Prior to this, I earned a Bachelor's degree in Computer
-Engineering at the Savitribai Phule Pune University in India. My research lies at the
-intersection of astrophysics, computer science, and statistics. I perform large-scale
-data-driven studies to understand how disk galaxies like the Milky Way form and evolve.
+I am an LSST Discovery Alliance Catalyst Postdoctoral Fellow at the Max Planck
+Institute for Astronomy, Germany. I have a PhD in Astronomy & Astrophysics 
+from the University of Toronto (UofT) and a BEng in Computer Engineering 
+from S. P. Pune University (India). My research lies at the intersection of 
+astrophysics, statistics, and computer science. I develop novel statistical 
+and computational tools to understand how galaxies like our own Milky Way (MW) 
+form and evolve.
 
-I focus on the development and application of novel statistical and computational
-methods in the field of Galaxy formation and evolution. I wrote a pure Python
-implementation of Functional Principal Component Analysis, available on my
-[GitHub profile](https://github.com/aaryapatil/specdims), to remove systematics
-and reduce the dimensionality of APOGEE **spectroscopic** data. I have developed
-my own Python package, [tapify](https://github.com/aaryapatil/tapify) for Multitaper
-Spectral Analysis as part of my work on time series analysis for **asteroseismology**.
-I am currently developing a package that combines innovative statistical methods,
-copulas and elictiable maps, for estimating the age and chemical distribution of
-stars in the Milky Way disk. My [Research](https://aaryapatil.github.io/research/)
+In the Milky Way, billion-star observations have opened avenues to study the 
+complex interplay between processes that build disk galaxies. The Sun's 
+position in the disk of our Galaxy allows us to observe a large number 
+of stars, but these observations only cover a part of the disk. Additionally, 
+the data are noisy, high-dimensional, and heterogeneous, making it challenging 
+to model processes underlying the Milky Way. My work tackles these challenges 
+by bridging the gap between astrophysics and statistics, and developing novel 
+data-driven tools that guide models of Galaxy formation and evolution. My 
+[Research](https://aaryapatil.github.io/research/)
 page provides more details on my work.
 
 I believe in the power of open science and strive to develop well-documented,
-well-maintained code for my research. My work in open-source started as a
-Google Summer of Code 2017 student developer with Astropy, the largest
-open-source Python software in astronomy. I now hold leadership positions
-in the project as a finance committee member, voting member, and core
-contributor (ranked 32nd in total contributions). In the summer of 2021,
-I mentored a [Google Summer of Code project](https://summerofcode.withgoogle.com/projects/#5695079907328000)
-with Astropy under the OpenAstronomy umbrella organization. I am also mentoring Jiayi Sun,
-a PhD student in the Electrical and Computer Engineering department at the University of
-Toronto, on a project to improve the collaboration efficiency of open-source scientific
-software teams.
+well-maintained open-source software packages for the data science methods I
+develop. I also have six years of experience developing software for 
+[Astropy](https://www.astropy.org/), the most widely-used open-source Python
+package for astronomy. I hold several leadership positions in the Astropy
+project. You can visit my Software page for more details.
 
-Throughout my PhD, I have engaged in several equity, diversity, inclusion and
-outreach activities. I recently developed and ran a week-long Python/Astropy
-workshop on astronomical data analysis for the postgraduate stream of the
-[Pan-African School for Emerging Astronomers](https://www.paseaafrica.org/), Zambia,
-in October 2022. More details can be found on my [Outreach](https://aaryapatil.github.io/outreach/)
-page.
+I am also passionate about teaching, mentoring, and outreach. I have taught 
+courses and mentored students in astrophysics, data science, and 
+computer engineering. In addition, I have organized outreach activities across 
+Asia, Africa, Europe, and North America. More details can be found on my 
+[Teaching](https://aaryapatil.github.io/teaching/) and
+[Outreach](https://aaryapatil.github.io/outreach/) pages.
