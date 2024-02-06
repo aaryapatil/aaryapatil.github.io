@@ -16,7 +16,7 @@ from S. P. Pune University (India).
 My research lies at the intersection of astrophysics, statistics, and computer 
 science. I develop novel statistical and computational tools to understand how 
 galaxies like our own Milky Way (MW) form and evolve. My 
-[eesearch](https://aaryapatil.github.io/research/) page provides more details 
+[research](https://aaryapatil.github.io/research/) page provides more details 
 on this exciting work!
 
 I believe in the power of open science and strive to develop well-documented,
@@ -30,5 +30,5 @@ I am also passionate about teaching, mentoring, and outreach. I have taught
 courses and mentored students in astrophysics, data science, and 
 computer engineering. In addition, I have organized outreach activities across 
 Asia, Africa, Europe, and North America. More details can be found on my 
-[eeaching](https://aaryapatil.github.io/teaching/) and
+[teaching](https://aaryapatil.github.io/teaching/) and
 [outreach](https://aaryapatil.github.io/outreach/) pages.
