@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aarya Patil"
 title_separator          : "-"
 name                     : &name "Aarya Patil"
-description              : &description "Astrostatistics PhD student at the University of Toronto"
+description              : &description "LSST-DA Catalyst Fellow at MPIA"
 url                      : https://aaryapatil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aaryapatil.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aarya Patil"
   avatar           : "profile.jpeg"
-  bio              : "Astrophysics PhD student at University of Toronto (she/her)"
-  location         : "Toronto"
+  bio              : "LSST-DA Catalyst Fellow at MPIA (she/her)"
+  location         : "Heidelberg"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=4LHqjmsAAAAJ"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aarya_patil"
+  twitter          : #"aarya_patil"
   vine             :
   weibo            :
   xing             :
