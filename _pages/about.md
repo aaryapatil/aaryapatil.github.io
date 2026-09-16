@@ -7,27 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an LSST Discovery Alliance Catalyst Postdoctoral Fellow at the Max Planck
-Institute for Astronomy, Germany. I have a PhD in Astronomy & Astrophysics 
-from the University of Toronto (UofT) and a BEng in Computer Engineering 
-from S. P. Pune University (India).
+I am an Assistant Professor in the Departments of Statistics and Astronomy & Astrophysics at Penn State University. I am also co-hired through the Institute for Computational and Data Sciences at Penn State. Previously, I was an LSST Discovery Alliance Catalyst Postdoctoral Fellow at the Max Planck Institute for Astronomy in Germany. I received my PhD in Astronomy & Astrophysics from the University of Toronto, where I was also a Data Sciences Institute Fellow, and my BEng in Computer Engineering from S. P. Pune University in India.
 
-My research lies at the intersection of astrophysics, statistics, and computer 
-science. I develop novel statistical and computational tools to understand how 
-galaxies like our own Milky Way (MW) form and evolve. My 
-[research](https://aaryapatil.github.io/research/) page provides more details 
-on this exciting work!
+My research lies at the intersection of astrophysics, statistics, and computer science. I develop statistical and machine learning methods to understand how galaxies like the Milky Way form and evolve, with a particular focus on extracting scientific insight from large and complex astronomical datasets. You can learn more on my [Research](https://aaryapatil.github.io/research/) page.
 
-I believe in the power of open science and strive to develop well-documented,
-well-maintained open-source software packages for the data science methods I
-develop. I also have six years of experience developing software for 
-[Astropy](https://www.astropy.org/), the most widely-used open-source Python
-package for astronomy. I hold several leadership positions in the Astropy
-project. You can visit my Software page for more details.
+I am a strong advocate for open science and develop well-documented, open-source software for astronomical data science. For more than nine years, I have contributed to Astropy, the leading open-source Python ecosystem for astronomy. I hold key leadership roles within the project, including serving as an Astropy Coordinator and a member of its Finance Committee.
 
-I am also passionate about teaching, mentoring, and outreach. I have taught 
-courses and mentored students in astrophysics, data science, and 
-computer engineering. In addition, I have organized outreach activities across 
-Asia, Africa, Europe, and North America. More details can be found on my 
-[teaching](https://aaryapatil.github.io/teaching/) and
-[outreach](https://aaryapatil.github.io/outreach/) pages.
+I am also passionate about teaching, mentoring, and outreach, and have worked with students and communities across astrophysics, data science, and computer engineering. See my [Teaching](https://aaryapatil.github.io/teaching/) and
+[Outreach](https://aaryapatil.github.io/outreach/) pages for more.
